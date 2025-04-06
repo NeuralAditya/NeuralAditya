@@ -1,8 +1,24 @@
 ### Hi, I'm Aditya! 👋  
 🎓 **DSBDA Student @ MIT WPU, Pune**  
-🚀 **Passionate about turning data into decisions**  
+🚀 **Passionate about turning data into decisions** 
 
-I build **scalable solutions** using **advanced analytics, machine learning, and cloud technologies** to drive innovation and business growth.  
+I build **scalable solutions** using **advanced analytics, machine learning, and cloud technologies** to drive innovation and business growth.
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/03d4ca28-97a9-4466-8985-e796e6fa3ade/public_url">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="120"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/355c72ba-8e72-46a8-b5aa-6d02d1785e2b/public_url">
+    <img src="https://images.credly.com/size/90x90/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="120"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/1dbb8d93-36a1-4369-b48d-3ec6b9fc79f9/public_url">
+    <img src="https://images.credly.com/size/680x680/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="AI Fundamentals - IBM SkillsBuild" width="120"/>
+  </a>
+</p>
 
 🔧 **Gaining Technical Expertise In:**  
 - 🖥️ **Programming**:  
