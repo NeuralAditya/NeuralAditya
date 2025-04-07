@@ -12,7 +12,7 @@ I build **scalable solutions** using **advanced analytics, machine learning, and
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/355c72ba-8e72-46a8-b5aa-6d02d1785e2b/public_url">
-    <img src="https://images.credly.com/size/90x90/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="120"/>
+    <img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="120"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/1dbb8d93-36a1-4369-b48d-3ec6b9fc79f9/public_url">
