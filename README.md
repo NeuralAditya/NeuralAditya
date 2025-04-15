@@ -19,8 +19,8 @@ I build **scalable solutions** using **advanced analytics, machine learning, and
     <img src="https://images.credly.com/size/680x680/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="AI Fundamentals - IBM SkillsBuild" width="120"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://credentials.databricks.com/5d14ccdd-349d-41dc-a7d2-80d0094358b8#acc.XtlufvSn">
-    <img src="https://media.licdn.com/dms/image/v2/D5610AQExQM9-Ne0ofA/image-shrink_800/image-shrink_800/0/1690307343533?e=2147483647&v=beta&t=Gv02ocllLgpi3_aGtXprmcfuWVWeOOMtRtvSJKFP0ZM" alt="Generative AI Fundamentals - DataBricks" width="120"/>
+  <a href="https://www.credly.com/badges/19b02248-32b2-4e60-8a8a-44528530d87d/public_url">
+    <img src="https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals - IBM SkillsBuild" width="120"/>
   </a>
 </p>
 
