@@ -1,8 +1,4 @@
-### Hi, I'm Aditya! 👋  
-🎓 **DSBDA Student @ MIT WPU, Pune**  
-🚀 **Passionate about turning data into decisions** 
-
-👋 Hi, I’m Aditya!
+### 👋 Hi, I’m Aditya!
 I’m currently studying at **DSBDA @ MIT WPU, Pune**. My passion lies in transforming **data** into **valuable insights** and **decisions**. 🚀
 
 I enjoy solving problems and building **practical**, **scalable solutions** using **analytics**, **machine learning**, and **cloud technologies**. Whether it's analyzing data or deploying a machine learning model, I aim to drive real-world impact. 📊💡
