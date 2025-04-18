@@ -2,7 +2,24 @@
 🎓 **DSBDA Student @ MIT WPU, Pune**  
 🚀 **Passionate about turning data into decisions** 
 
-I build **scalable solutions** using **advanced analytics, machine learning, and cloud technologies** to drive innovation and business growth.
+👋 Hi, I’m Aditya!
+I’m currently studying at **DSBDA @ MIT WPU, Pune**. My passion lies in transforming **data** into **valuable insights** and **decisions**. 🚀
+
+I enjoy solving problems and building **practical**, **scalable solutions** using **analytics**, **machine learning**, and **cloud technologies**. Whether it's analyzing data or deploying a machine learning model, I aim to drive real-world impact. 📊💡
+
+- **My Technical Expertise Includes**:
+  - Programming: Python, C, SQL, Julia
+  - Cloud & Big Data: AWS, Spark, Docker, Kubernetes
+  - Machine Learning & AI: Predictive Modeling, NLP, TensorFlow/PyTorch
+  - Data Engineering: ETL Pipelines, Apache Airflow, Databricks
+  - Visualization: Power BI, Tableau, Matplotlib/Seaborn
+
+- **Skills I’m Working With**:
+  - Python | Flask (Web Dev) | scikit-learn (ML) | pandas (Data Manipulation) | NumPy (Numerical Computing)
+  - Predictive Modeling | Random Forest | Model Evaluation & Tuning
+  - Data Cleaning | Feature Engineering | TF-IDF (Text Features)
+  - matplotlib, seaborn (Data Visualization)
+  - Flask Deployment | Web UI Integration | HTML/CSS/JS (Styling)
 
 ## 🏅 Certifications
 
