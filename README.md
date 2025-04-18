@@ -40,8 +40,7 @@ I enjoy solving problems and building **practical**, **scalable solutions** usin
     <img src="https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals - IBM SkillsBuild" width="120"/>
   </a>
 </p>
-
-🔧 **Gaining Technical Expertise In:**  
+ 
 - 🖥️ **Programming**:  
   ![Julia](https://img.shields.io/badge/Julia-%23A270BA.svg?style=flat&logo=julia&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
