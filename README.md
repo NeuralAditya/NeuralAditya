@@ -24,8 +24,8 @@ I enjoy solving problems and building **practical**, **scalable solutions** usin
     <img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="120"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/c2b5e67a-6c88-440b-8783-b5ffe33894f5/public_url">
-    <img src="https://images.credly.com/size/680x680/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png" alt="Explore Emerging Tech" width="120"/>
+  <a href="https://www.credly.com/badges/9fbbb12d-99fc-4bd7-a3d7-8e982148896d/public_url">
+    <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="120"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/19b02248-32b2-4e60-8a8a-44528530d87d/public_url">
