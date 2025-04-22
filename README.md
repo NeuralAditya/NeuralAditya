@@ -20,12 +20,12 @@ I enjoy solving problems and building **practical**, **scalable solutions** usin
 ## 🏅 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/03d4ca28-97a9-4466-8985-e796e6fa3ade/public_url">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="120"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/355c72ba-8e72-46a8-b5aa-6d02d1785e2b/public_url">
     <img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="120"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/19b02248-32b2-4e60-8a8a-44528530d87d/public_url">
+    <img src="https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals" width="120"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/1dbb8d93-36a1-4369-b48d-3ec6b9fc79f9/public_url">
